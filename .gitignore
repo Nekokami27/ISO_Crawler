@@ -4,3 +4,4 @@ build/
 pyinstaller.spec
 main.spec
 dist/
+README.md
