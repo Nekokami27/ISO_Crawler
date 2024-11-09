@@ -5,6 +5,9 @@ pip install -r requirements.txt <- 下載此專案相依性套件
 1. 請確保您的電腦已安裝python3.11以上版本
 2. 請確保執行路徑須包含符合主機chrome版本的chromedriver.exe 參考網址: https://sites.google.com/chromium.org/driver/ (本專案放置的為ver 130.0.6723.58)
 
+Realease使用方法如下(請自行放置chromedriver.exe)
+![image](https://github.com/user-attachments/assets/696a9186-2da1-4cbb-bd65-e9f4893db385)
+
 
 1. 執行 python main.py或是release 的exe檔案
 2. Enter the website URL(請輸入網站url):  輸入網站網址(請包含http://或https://) (必填)
